@@ -84,7 +84,7 @@ This project aims to create a **Student CV Display** and a **Client-Server Chat 
 - The client will display the HTML CV and allow real-time chat communication.
 
 ### **4. Screenshots**
-1. **Displaying the Student CV on the Client**:
-   ![CV Screenshot](link_to_image)
-2. **Client-Server Chat Interface**:
-   ![Chat Screenshot](link_to_image)
+1. **Displaying the Student CV on the Client**
+2. **Client-Server Chat Interface**
+  ![image](https://github.com/user-attachments/assets/cc654211-bc35-48af-999b-9af4b3c3bcc2)
+
