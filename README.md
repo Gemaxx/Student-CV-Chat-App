@@ -1,9 +1,4 @@
-Here's a suggested **README.md** content for your project:
-
----
-
 # **Student CV Display and Client-Server Chat Application**
-
 ## **Project Overview**
 
 This project aims to create a **Student CV Display** and a **Client-Server Chat Application** using **JavaFX** for the graphical user interface (GUI). The application allows clients to connect to a server, view the student's CV in HTML format, and communicate with other clients in real-time via a chat interface.
@@ -87,4 +82,3 @@ This project aims to create a **Student CV Display** and a **Client-Server Chat 
 1. **Displaying the Student CV on the Client**
 2. **Client-Server Chat Interface**
   ![image](https://github.com/user-attachments/assets/cc654211-bc35-48af-999b-9af4b3c3bcc2)
-
